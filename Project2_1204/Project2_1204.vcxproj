@@ -127,10 +127,32 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="fun.cpp" />
+    <ClCompile Include="func.cpp" />
+    <ClCompile Include="func9_1.cpp" />
+    <ClCompile Include="Project10_1.cpp" />
+    <ClCompile Include="Project10_2.cpp" />
+    <ClCompile Include="Project10_3.cpp" />
     <ClCompile Include="Project2_4-1.cpp" />
     <ClCompile Include="Project5_1.cpp" />
     <ClCompile Include="Project5_2.cpp" />
     <ClCompile Include="Project5_3.cpp" />
+    <ClCompile Include="Project7_2.cpp" />
+    <ClCompile Include="Project7_3.cpp" />
+    <ClCompile Include="Project7_4.cpp" />
+    <ClCompile Include="Project8_1.cpp" />
+    <ClCompile Include="Project8_2.cpp" />
+    <ClCompile Include="Project8_3.cpp" />
+    <ClCompile Include="Project8_4.cpp" />
+    <ClCompile Include="Project9_1.cpp" />
+    <ClCompile Include="Project9_2.cpp" />
+    <ClCompile Include="Project9_3.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="new.h" />
+    <ClInclude Include="Stock.h" />
+    <ClInclude Include="struct.h" />
+    <ClInclude Include="time.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
